@@ -525,7 +525,7 @@ body.debug img:not([alt$="."]) {
   outline: 5px solid orange;
 }
 
-.outline body.debug * {
+body.outline * {
   outline: 1px solid red;
 }
 

@@ -70,7 +70,8 @@ label[for] {
     /* 16:9 */
     //padding-top: 25px;
     height: 0;
-    iframe, video {
+    iframe,
+    video {
         position: absolute;
         top: 0;
         left: 0;
@@ -131,9 +132,8 @@ body.debug {
     img:not([alt$="."]) {
         outline: 5px solid orange;
     }
-    .outline & {
-        * {
-            outline: 1px solid red;
-        }
-    }
+}
+
+body.outline * {
+    outline: 1px solid red;
 }

@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ben182/css-essentials.git"
+    "url": "git+https://github.com/ben182/greenbutter.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ben182/css-essentials/issues"
+    "url": "https://github.com/ben182/greenbutter/issues"
   },
-  "homepage": "https://github.com/ben182/css-essentials#readme",
+  "homepage": "https://github.com/ben182/greenbutter#readme",
   "devDependencies": {
     "cross-env": "^5.1.4",
     "laravel-mix": "^2.1.7",
