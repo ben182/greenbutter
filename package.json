@@ -25,6 +25,7 @@
   "devDependencies": {
     "cross-env": "^5.1.4",
     "laravel-mix": "^2.1.7",
+    "laravel-mix-banner": "^0.1.2",
     "normalize.css": "^8.0.0"
   }
 }
