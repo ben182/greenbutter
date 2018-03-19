@@ -24,5 +24,4 @@ mix
             ].join('\n');
         })(),
         raw: true,
-    })
-    .minify('dist/app.css');
+    });
